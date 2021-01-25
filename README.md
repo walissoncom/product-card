@@ -1,6 +1,6 @@
 # Product Card
 
-Product Card UI page created for studying purpose.
+Product Card UI page created for studying purposes.
 
 ## Live Demo
 
